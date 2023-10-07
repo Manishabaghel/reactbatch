@@ -10,6 +10,7 @@ root.render(
     <App color="black" size="34" clickEvent={()=>
     {
       console.log("who clicked my button??");
+      console.log("hello");
       alert("who clicked my button??");
     }}/>
   </React.StrictMode>
