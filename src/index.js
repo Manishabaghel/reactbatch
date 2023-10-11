@@ -11,6 +11,8 @@ root.render(
     {
       console.log("who clicked my button??");
       console.log("hello");
+      console.log("h");
+
       alert("who clicked my button??");
     }}/>
   </React.StrictMode>
